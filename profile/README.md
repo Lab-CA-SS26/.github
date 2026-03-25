@@ -14,4 +14,17 @@ The proposed projects are:
 
 - The `Lab-CA-SS26-graph-isomorphism`, `Lab-CA-SS26-graph-similarity`, and `Lab-CA-SS26-node-importance` folders will contain the code specific to each project. 
 
-<img src="logo.png" alt="descrizione" width="150" />
+### Infos
+<table>
+  <tr>
+    <td><img src="logo.png" alt="Logo" width="150" /></td>
+    <td>
+      <ul>
+        <li><strong>Module:</strong> MA-INF 1221</li>
+        <li><strong>Semester:</strong> SS26</li>
+        <li><strong>Lecturer:</strong> Dr. Aurora Rossi, Laura Bülte, Prof. Dr. Petra Mutzel</li>
+        <li><strong>CP:</strong> 9</li>
+      </ul>
+    </td>
+  </tr>
+</table>
