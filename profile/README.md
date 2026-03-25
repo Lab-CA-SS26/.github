@@ -12,3 +12,5 @@ The proposed projects are:
 ### Lab Folder Structure
 In the `Lab-CA-SS26-resources` folder, you will find all the resources related to the course, including introducion to the Julia programming language, git, and the reference papers for the proposed projects.
 The `Lab-CA-SS26-graph-isomorphism`, `Lab-CA-SS26-graph-similarity`, and `Lab-CA-SS26-node-importance` folders will contain the code specific to each project. 
+
+![Logo](logo.png)
