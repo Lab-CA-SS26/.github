@@ -5,8 +5,10 @@ This repository contains the code and resources for the Lab Computational Analyt
 The Lab Computational Analytics course offers a research-oriented environment focused on the design, implementation, analysis, and improvement of advanced graph algorithms using the Julia programming language. The problems will be addressed both with algorithmic and machine learning approaches. 
 The proposed projects are:
 - *Graph isomorphism*: Weisfeiler-Lehman algorithm and Graph Isomorphism Network (GIN). 
-- *Graph similarity*: Graph Edit Distance via Integer Linear Programming (ILP) and Graph Edit Distance Graph Neural Network (GED-GNN). 
-- *Node importance*: Betweenness Centrality approximation via KADABRA algorithm and BRAVA-GNN. 
+- *Graph similarity*: Graph Edit Distance via Integer Linear Programming (ILP) and Graph Edit Distance Graph Neural Network (GED-GNN).
+- *Graoh matching* (or network alignment): Path algorithm via Quadratic Assignment Problem (QAP) and Sequential GNNs.
+- *Node importance*: Betweenness Centrality approximation via KADABRA algorithm and BRAVA-GNN.
+  
 
 
 ### Lab Folder Structure
