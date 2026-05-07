@@ -6,7 +6,7 @@ The Lab Computational Analytics course offers a research-oriented environment fo
 The proposed projects are:
 - *Graph isomorphism*: Weisfeiler-Lehman algorithm and Graph Isomorphism Network (GIN). 
 - *Graph similarity*: Graph Edit Distance via Integer Linear Programming (ILP) and Graph Edit Distance Graph Neural Network (GED-GNN).
-- *Graoh matching* (or network alignment): Path algorithm via Quadratic Assignment Problem (QAP) and Sequential GNNs.
+- *Graph matching* (or network alignment): Path algorithm via Quadratic Assignment Problem (QAP) and Sequential GNNs.
 - *Node importance*: Betweenness Centrality approximation via KADABRA algorithm and BRAVA-GNN.
   
 
